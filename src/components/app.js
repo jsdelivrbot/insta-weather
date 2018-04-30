@@ -10,7 +10,7 @@ export default class App extends Component {
       <div>
         <div className="navigation">
           <div className="logo">
-            <img src="http://dombellettini.com/portfolio/weather_app/src/img/InstaWEATHER_logo.png" />
+            <img src="../../img/InstaWEATHER_logo.png" alt="" />
           </div>
           <div className="search">
             <SearchBar />

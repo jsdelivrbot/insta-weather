@@ -25,7 +25,7 @@ class WeatherList extends Component {
 				<td className="conditions">
 					<div className="cContainer">
 							<p>{conditions}</p>
-							<img className="weatherIcon" src={iconSource} />
+							<img className="weatherIcon" src={iconSource} alt="" />
 					</div>
 					<p className="labels">CONDITIONS</p>
 				</td>

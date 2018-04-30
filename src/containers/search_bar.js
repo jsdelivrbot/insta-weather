@@ -33,7 +33,7 @@ class SearchBar extends Component {
 					value={this.state.term}
 					onChange={this.onInputChange} />
 				<span className="input-group-btn">
-					<button type="submit" className="btn btn-secondary"><img src="http://dombellettini.com/portfolio/weather_app/src/img/search-icon.png" /></button>
+					<button type="submit" className="btn btn-secondary"><img src="../../img/search-icon.png" alt="" /></button>
 				</span>
 			</form>
 		);
